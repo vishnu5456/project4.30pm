@@ -13,6 +13,8 @@ public static void main(String[] args) {
 	CompanyInfo c= new CompanyInfo();
 	c.companyName(50000l, "zoho");
 	c.companyName("chennai", 10l);
+	System.out.println("hi");
+	System.out.println("bye");
 	
 }
 }
